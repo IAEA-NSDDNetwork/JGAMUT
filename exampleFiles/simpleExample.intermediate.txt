@@ -1,0 +1,57 @@
+ 76SE  L    0.0       0+  **                                                                                   
+                                                                                                               
+ 76SE  L 559.101    5 2+  **                                                                                   
+Data set                      Eg           Ig (orig.)  Ig (norm.)  Init. Level  Final Level  Mu          MR    
+ADOPTED LEVELS, GAMMAS        559.099 5    100         100         559.101 2+   0.0 0+       E2                
+74GE(A,2NG)                   558.8 5      100         100         559.101 2+   0.0 0+       E2                
+76AS B- DECAY (26.254 H)      559.086 10   100         100         559.101 2+   0.0 0+       E2                
+76BR EC DECAY (16.2 H)        559.11 5     100         100         559.101 2+   0.0 0+       E2                
+                                                                                                               
+                                                                                                               
+                                                                                                               
+ 76SE  L 1122.280   8 0+  **                                                                                   
+Data set                      Eg           Ig (orig.)  Ig (norm.)  Init. Level  Final Level  Mu          MR    
+ADOPTED LEVELS, GAMMAS        563.171 7    100         100         1122.280 0+  559.101 2+   E2                
+76AS B- DECAY (26.254 H)      563.147 10   2.69 6      100         1122.280 0+  559.101 2+   E2                
+76BR EC DECAY (16.2 H)        563.22 5     3.90 20     100 5       1122.280 0+  559.101 2+   E2                
+                                                                                                               
+ADOPTED LEVELS, GAMMAS        1122.3 3                             1122.280 0+  0.0 0+       E0                
+76BR EC DECAY (16.2 H)        1122.3 3                             1122.280 0+  0.0 0+       E0                
+                                                                                                               
+                                                                                                               
+                                                                                                               
+ 76SE  L 1216.150   6 2+  **                                                                                   
+Data set                      Eg           Ig (orig.)  Ig (norm.)  Init. Level  Final Level  Mu          MR    
+ADOPTED LEVELS, GAMMAS        657.041 5    100.0 22    100.0 22    1216.150 2+  559.101 2+   E2+M1(+E0)  +5.2  
+74GE(A,2NG)                   656.8 5      15.4 11     100 7       1216.150 2+  559.101 2+   E2+M1       +4.7  
+76BR EC DECAY (16.2 H)        657.00 5     21.4 11     100 5       1216.150 2+  559.101 2+   E2+M1(+E0)  +5.2  
+76AS B- DECAY (26.254 H)      657.042 10   14.0 3      100.0 21    1216.150 2+  559.101 2+   E2+M1(+E0)  +5.2  
+                                                                                                               
+ADOPTED LEVELS, GAMMAS        1216.149 25  58.0 22     58.0 22     1216.150 2+  0.0 0+       E2                
+74GE(A,2NG)                   1215.6 5     5.8 4       38 3        1216.150 2+  0.0 0+       E2                
+76BR EC DECAY (16.2 H)        1216.10 5    12.0 6      56 3        1216.150 2+  0.0 0+                         
+76AS B- DECAY (26.254 H)      1216.200 20  7.60 12     54.3 9      1216.150 2+  0.0 0+       E2                
+                                                                                                               
+                                                                                                               
+                                                                                                               
+ 76SE  L 1300.0       0+  **                                                                                   
+                                                                                                               
+ 76SE  L X  **                                                                                                 
+                                                                                                               
+ 76SE  L 100.0+X  **                                                                                           
+Data set                      Eg           Ig (orig.)  Ig (norm.)  Init. Level  Final Level  Mu          MR    
+ADOPTED LEVELS, GAMMAS        100.1 10     100         100         100.0+X      X                              
+76BR EC DECAY (16.2 H)        100.5 10     100         100         100.0+X      X                              
+74GE(A,2NG)                   101.9 13     100         100         100.0+X      X                              
+                                                                                                               
+                                                                                                               
+                                                                                                               
+ 76SE  L X+150.0  **                                                                                           
+Data set                      Eg           Ig (orig.)  Ig (norm.)  Init. Level  Final Level  Mu          MR    
+ADOPTED LEVELS, GAMMAS        50.5 5       36 5        36 5        X+150.0      100.0+X                        
+74GE(A,2NG)                   48.0 11      35 8        35 8        X+150.0      100.0+X                        
+76BR EC DECAY (16.2 H)        50.8 5       37 6        37 6        X+150.0      100.0+X                        
+                                                                                                               
+ADOPTED LEVELS, GAMMAS        149.8 15     100 1       100.0 10    X+150.0      X                              
+74GE(A,2NG)                   147.7 18     100 1       100.0 10    X+150.0      X                              
+76BR EC DECAY (16.2 H)        150.7 15     100 1       100.0 10    X+150.0      X                              
