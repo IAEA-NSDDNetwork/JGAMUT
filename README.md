@@ -8,7 +8,7 @@ Address any question to Balraj Singh balraj@mcmaster.ca
 ## Change History
 
 #### 2017-05
-new version
+Version 2017-05
 
 #### 2016-08
 JGAMUT (written by Michael Birch, McMaster University) is a Java version of the old GAMUT code 
